@@ -264,6 +264,9 @@ packages:
 
 ```{r load-packages}
 # YOUR CODE HERE
+library(tidygraph)
+library(ggraph)
+library(tidyverse)
 
 
 ```
@@ -327,7 +330,7 @@ tie is a directed meaning that relationships between actors may not
 necessarily be reciprocated. For example, student 1 may report student 2
 as a friend, but student 2 may or may not report student 1 as friend. If
 both student 2 and student 2 indicate each other as friends, then this
-tie, or edge, is considered **reciprocal** or **mutal**.
+tie, or edge, is considered **reciprocal** or **mutual**.
 
 #### Import Student-Reported Friendships
 
