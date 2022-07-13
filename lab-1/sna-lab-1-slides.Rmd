@@ -264,7 +264,7 @@ Consider a network you are interested in studying and think about the following 
 .pull-left[
 
 Consistent with typical data storage, node-lists often include:
-- identifiers lik name or **ID**
+- identifiers like name or **ID**
 - demographic info (**gender**, age) 
 - socio-economic info (job, income)
 - substantive info (**grades**, attendance)
